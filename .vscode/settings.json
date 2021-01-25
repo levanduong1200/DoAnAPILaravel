@@ -1,0 +1,5 @@
+{
+    "problems.decorations.enabled": false,
+    "problems.autoReveal": false,
+    "timeline.excludeSources": []
+}
